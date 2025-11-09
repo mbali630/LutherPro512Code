@@ -1,7 +1,7 @@
 import os
 
 # Database configuration
-DB_PATH = "D:\\tenta\\Documents\\Luther-Code\\library.db"
+DB_PATH = "C:\\Users\\User\\Downloads\\Luther-Code-main\\Luther-Code-main\\library.db"
 
 
 # Email settings
